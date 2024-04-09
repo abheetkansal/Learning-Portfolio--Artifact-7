@@ -1,4 +1,4 @@
-```markdown
+
 # Simplex Method
 
 The simplex method is a fundamental algorithm for solving linear programming problems. This markdown file provides a detailed explanation of the simplex method, its implementation steps, and practical examples.
@@ -57,4 +57,3 @@ The simplex method finds applications in various fields such as finance, operati
 The simplex method provides an efficient and effective approach to solving linear programming problems. By following the principles and steps outlined in this guide, one can systematically find optimal solutions to a wide range of optimization problems.
 ```
 
-This Markdown document provides an overview of the simplex method, its implementation, and practical examples, suitable for a `.md` file.
