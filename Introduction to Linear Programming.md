@@ -1,3 +1,4 @@
+
 ## Introduction to Linear Programming
 
 Linear programming (LP) is a mathematical optimization technique used to find the best solution to a problem with linear constraints and a linear objective function. The term "programming" in linear programming refers to the process of planning, scheduling, or optimizing a system or process.
@@ -7,25 +8,20 @@ Linear programming (LP) is a mathematical optimization technique used to find th
 In linear programming, we aim to maximize or minimize a linear objective function, subject to a set of linear equality or inequality constraints. The general form of a linear programming problem is as follows:
 
 **Maximize (or Minimize):**
-\[ 
-Z = c_1x_1 + c_2x_2 + \ldots + c_nx_n 
-\]
-
+```
+Z = c₁x₁ + c₂x₂ + ... + cₙxₙ
+```
 **Subject to:**
-\[ 
-\begin{align*}
-a_{11}x_1 + a_{12}x_2 + \ldots + a_{1n}x_n &\leq b_1 \\
-a_{21}x_1 + a_{22}x_2 + \ldots + a_{2n}x_n &\leq b_2 \\
-\vdots \\
-a_{m1}x_1 + a_{m2}x_2 + \ldots + a_{mn}x_n &\leq b_m \\
-\end{align*}
-\]
-
-\[ 
-x_1, x_2, \ldots, x_n \geq 0 
-\]
-
-Here, \( x_1, x_2, \ldots, x_n \) are decision variables representing the quantities to be determined, \( c_1, c_2, \ldots, c_n \) are coefficients of the objective function, \( a_{ij} \)'s are coefficients of the constraint equations, and \( b_1, b_2, \ldots, b_m \) are constants representing the resource limits or demands.
+```
+a₁₁x₁ + a₁₂x₂ + ... + a₁ₙxₙ ≤ b₁
+a₂₁x₁ + a₂₂x₂ + ... + a₂ₙxₙ ≤ b₂
+...
+aₘ₁x₁ + aₘ₂x₂ + ... + aₘₙxₙ ≤ bₘ
+```
+```
+x₁, x₂, ..., xₙ ≥ 0
+```
+Here, `x₁, x₂, ..., xₙ` are decision variables representing the quantities to be determined, `c₁, c₂, ..., cₙ` are coefficients of the objective function, `aᵢⱼ`'s are coefficients of the constraint equations, and `b₁, b₂, ..., bₘ` are constants representing the resource limits or demands.
 
 ### Applications
 
