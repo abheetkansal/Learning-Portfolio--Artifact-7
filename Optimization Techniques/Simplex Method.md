@@ -55,5 +55,5 @@ The simplex method finds applications in various fields such as finance, operati
 ## Conclusion
 
 The simplex method provides an efficient and effective approach to solving linear programming problems. By following the principles and steps outlined in this guide, one can systematically find optimal solutions to a wide range of optimization problems.
-```
+
 
