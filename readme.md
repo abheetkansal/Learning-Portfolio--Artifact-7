@@ -40,7 +40,7 @@ This repository is licensed under the [MIT License](LICENSE), which means you're
 
 ## Acknowledgments
 
-I would like to thank [list any individuals or organizations] for their valuable contributions, support, and inspiration throughout my learning journey in linear programming.
+I would like to thank MATH 441 course team for their valuable contributions, support, and inspiration throughout my learning journey in linear programming.
 
 ## Future Work
 
