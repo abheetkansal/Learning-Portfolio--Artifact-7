@@ -1,4 +1,4 @@
-# Linear Programming Learning Repository
+# Linear Programming Learning 
 
 Welcome to my Linear Programming Learning Repository! This repository is a collection of my journey in learning and applying linear programming techniques. Whether you're a beginner or an experienced practitioner, I hope you find the resources and examples here helpful in understanding and mastering linear programming concepts.
 
